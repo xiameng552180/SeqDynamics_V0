@@ -1,0 +1,14 @@
+第一段：
+
+1. dynamic 本身有一个temporal的性质在里面，直接从learning behavior到dynamic感觉有一个logic gap，最好先讲一下temporal在learning behavior中的意义，再讲dynamic
+2. 这个定义感觉不是很清楚，1->我们自己可视化出来的东西都是从数据中得出来的，没有教育理论的支持。注意避免说我们可视化了某种学习pattern，或者cognitive skill，我们只能可视化learning action which 部分反映了某些 learning pattern。 2->这里dynamic是progress的change还是skill的change，我不是很确定。
+
+第三段：
+
+这里的issues和之后的challenge有点重复，最好想办法整合一下。
+
+第四段：
+
+这个challenge比较难，我读的时候会质疑可视化多个perspective为什么是一个nontrival的问题，其次什么样的solution是一个principled way，我们的解法是不是？要argue是个princpiled way挺难的
+
+后面的contribution我现在还不太清楚design，之后再过一遍，related work没有什么逻辑问题，语言功底很赞！
